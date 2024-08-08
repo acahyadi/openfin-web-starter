@@ -11,7 +11,8 @@ const DEFAULT_PATH = 'web';
 const ENV_NAME = 'PKG_HOWTOS';
 
 const URLBaseMap = new Map([
-	['github', 'https://built-on-openfin.github.io'],
+	// ['github', 'https://built-on-openfin.github.io'],
+	['github', 'https://github.com/acahyadi/openfin-web-starter'],
 	['aws', 'https://samples.openfin.co']
 ]);
 
