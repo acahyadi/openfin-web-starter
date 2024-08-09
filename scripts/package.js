@@ -11,8 +11,7 @@ const DEFAULT_PATH = 'web';
 const ENV_NAME = 'PKG_HOWTOS';
 
 const URLBaseMap = new Map([
-	// ['github', 'https://built-on-openfin.github.io'],
-	['github', 'https://github.com/acahyadi/openfin-web-starter'],
+	['github', 'https://acahyadi.github.io/openfin-web-starter'],
 	['aws', 'https://samples.openfin.co']
 ]);
 
@@ -48,7 +47,7 @@ const args = yargs(process.argv.slice(2))
  * @param cliArgs The CLI arguments.
  */
 function packageItems(cliArgs) {
-	let publishDir = `public-${cliArgs.location}`;
+	let publishDir = `docs`;
 
 	if (cliArgs.legacy) {
 		publishDir = 'public';
@@ -95,7 +94,7 @@ function packageItems(cliArgs) {
 		}
 
 		try {
-			const rootUrl = [baseURL, DEFAULT_FOLDER, hostFolder, item].filter(Boolean).join('/');
+			const rootUrl = [baseURL, DEFAULT_FOLDER, item].filter(Boolean).join('/');
 			const options = {
 				files: [`${targetDir}/**/*.json`, `${targetDir}/**/*.js`, `${targetDir}/**/*.html`],
 				from: new RegExp(`http://localhost:${DEFAULT_PORT}`, 'g'),
