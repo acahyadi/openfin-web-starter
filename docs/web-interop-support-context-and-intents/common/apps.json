@@ -11,12 +11,12 @@
 			"lang": "en-US",
 			"icons": [
 				{
-					"src": "https://acahyadi.github.io/openfin-web-starter/web-starter/web-interop-support-context-and-intents/favicon.ico"
+					"src": "https://acahyadi.github.io/web-starter/web-interop-support-context-and-intents/favicon.ico"
 				}
 			],
 			"screenshots": [
 				{
-					"src": "https://acahyadi.github.io/openfin-web-starter/web-starter/web-interop-support-context-and-intents/images/previews/preview-fdc3-local-context-view.jpeg"
+					"src": "https://acahyadi.github.io/web-starter/web-interop-support-context-and-intents/images/previews/preview-fdc3-local-context-view.jpeg"
 				}
 			],
 			"contactEmail": "sales@openfin.co",
@@ -24,7 +24,7 @@
 			"publisher": "OpenFin",
 			"type": "web",
 			"details": {
-				"url": "https://acahyadi.github.io/openfin-web-starter/web-starter/web-interop-support-context-and-intents/views/fdc3-view.html"
+				"url": "https://acahyadi.github.io/web-starter/web-interop-support-context-and-intents/views/fdc3-view.html"
 			},
 			"interop": {}
 		},
@@ -39,12 +39,12 @@
 			"lang": "en-US",
 			"icons": [
 				{
-					"src": "https://acahyadi.github.io/openfin-web-starter/web-starter/web-interop-support-context-and-intents/favicon.ico"
+					"src": "https://acahyadi.github.io/web-starter/web-interop-support-context-and-intents/favicon.ico"
 				}
 			],
 			"screenshots": [
 				{
-					"src": "https://acahyadi.github.io/openfin-web-starter/web-starter/web-interop-support-context-and-intents/images/previews/preview-interop-local-context-view.jpeg"
+					"src": "https://acahyadi.github.io/web-starter/web-interop-support-context-and-intents/images/previews/preview-interop-local-context-view.jpeg"
 				}
 			],
 			"contactEmail": "sales@openfin.co",
@@ -52,7 +52,7 @@
 			"publisher": "OpenFin",
 			"type": "web",
 			"details": {
-				"url": "https://acahyadi.github.io/openfin-web-starter/web-starter/web-interop-support-context-and-intents/views/interop-view.html"
+				"url": "https://acahyadi.github.io/web-starter/web-interop-support-context-and-intents/views/interop-view.html"
 			},
 			"interop": {}
 		},
@@ -67,12 +67,12 @@
 			"lang": "en-US",
 			"icons": [
 				{
-					"src": "https://acahyadi.github.io/openfin-web-starter/web-starter/web-interop-support-context-and-intents/favicon.ico"
+					"src": "https://acahyadi.github.io/web-starter/web-interop-support-context-and-intents/favicon.ico"
 				}
 			],
 			"screenshots": [
 				{
-					"src": "https://acahyadi.github.io/openfin-web-starter/web-starter/web-interop-support-context-and-intents/images/previews/preview-fdc3-local-intent-view.jpeg"
+					"src": "https://acahyadi.github.io/web-starter/web-interop-support-context-and-intents/images/previews/preview-fdc3-local-intent-view.jpeg"
 				}
 			],
 			"contactEmail": "sales@openfin.co",
@@ -80,7 +80,7 @@
 			"publisher": "OpenFin",
 			"type": "web",
 			"details": {
-				"url": "https://acahyadi.github.io/openfin-web-starter/web-starter/web-interop-support-context-and-intents/views/fdc3-intent-view.html"
+				"url": "https://acahyadi.github.io/web-starter/web-interop-support-context-and-intents/views/fdc3-intent-view.html"
 			},
 			"interop": {
 				"intents": {
@@ -104,12 +104,12 @@
 			"lang": "en-US",
 			"icons": [
 				{
-					"src": "https://acahyadi.github.io/openfin-web-starter/web-starter/web-interop-support-context-and-intents/favicon.ico"
+					"src": "https://acahyadi.github.io/web-starter/web-interop-support-context-and-intents/favicon.ico"
 				}
 			],
 			"screenshots": [
 				{
-					"src": "https://acahyadi.github.io/openfin-web-starter/web-starter/web-interop-support-context-and-intents/images/previews/preview-interop-local-intent-view.jpeg"
+					"src": "https://acahyadi.github.io/web-starter/web-interop-support-context-and-intents/images/previews/preview-interop-local-intent-view.jpeg"
 				}
 			],
 			"contactEmail": "sales@openfin.co",
@@ -117,7 +117,7 @@
 			"publisher": "OpenFin",
 			"type": "web",
 			"details": {
-				"url": "https://acahyadi.github.io/openfin-web-starter/web-starter/web-interop-support-context-and-intents/views/interop-view.html"
+				"url": "https://acahyadi.github.io/web-starter/web-interop-support-context-and-intents/views/interop-view.html"
 			},
 			"interop": {
 				"intents": {

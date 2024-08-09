@@ -21,7 +21,7 @@
 					"type": "fetch",
 					"options": {
 						"method": "GET",
-						"url": "https://acahyadi.github.io/openfin-web-starter/web-starter/web-interop-support-context-and-intents/settings.json"
+						"url": "https://acahyadi.github.io/web-starter/web-interop-support-context-and-intents/settings.json"
 					}
 				}
 			]
