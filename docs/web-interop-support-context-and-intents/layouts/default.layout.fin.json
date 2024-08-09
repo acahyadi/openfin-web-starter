@@ -28,7 +28,7 @@
 											"type": "component",
 											"componentName": "view",
 											"componentState": {
-												"url": "https://acahyadi.github.io/web-starter/web-interop-support-context-and-intents/views/fdc3-view.html",
+												"url": "https://acahyadi.github.io/openfin-web-starter/web-interop-support-context-and-intents/views/fdc3-view.html",
 												"name": "local-fdc3-context-view/e7fe7df3-6f64-4235-899f-4e91af2cb32d2"
 											},
 
@@ -48,7 +48,7 @@
 											"type": "component",
 											"componentName": "view",
 											"componentState": {
-												"url": "https://acahyadi.github.io/web-starter/web-interop-support-context-and-intents/views/fdc3-intent-view.html",
+												"url": "https://acahyadi.github.io/openfin-web-starter/web-interop-support-context-and-intents/views/fdc3-intent-view.html",
 												"name": "local-fdc3-intent-view/54a8ef85-a885-4234-be46-9d52e88fsb74"
 											},
 
@@ -81,7 +81,7 @@
 											"type": "component",
 											"componentName": "view",
 											"componentState": {
-												"url": "https://acahyadi.github.io/web-starter/web-interop-support-context-and-intents/views/interop-view.html",
+												"url": "https://acahyadi.github.io/openfin-web-starter/web-interop-support-context-and-intents/views/interop-view.html",
 												"name": "local-interop-context-view/64a8efd7-3d92-42ae-8fae-dffcc0fdac92"
 											},
 
@@ -101,7 +101,7 @@
 											"type": "component",
 											"componentName": "view",
 											"componentState": {
-												"url": "https://acahyadi.github.io/web-starter/web-interop-support-context-and-intents/views/interop-intent-view.html",
+												"url": "https://acahyadi.github.io/openfin-web-starter/web-interop-support-context-and-intents/views/interop-intent-view.html",
 												"name": "local-interop-intent-view/54a8ef86-a775-4234-be46-9d52e88fsb74"
 											},
 

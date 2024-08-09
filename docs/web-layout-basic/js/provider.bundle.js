@@ -30866,7 +30866,7 @@ const core_web_1 = __webpack_require__(/*! @openfin/core-web */ "../../node_modu
  * @returns The default layout for this app.
  */
 async function getDefaultLayout() {
-    const layoutResponse = await fetch("https://acahyadi.github.io/web-starter/web-layout-basic/layouts/default.layout.fin.json");
+    const layoutResponse = await fetch("https://acahyadi.github.io/openfin-web-starter/web-layout-basic/layouts/default.layout.fin.json");
     const layoutJson = (await layoutResponse.json());
     return layoutJson;
 }
@@ -30893,7 +30893,7 @@ async function init() {
     const fin = await (0, core_web_1.connect)({
         connectionInheritance: "enabled",
         options: {
-            brokerUrl: "https://acahyadi.github.io/web-starter/web-layout-basic/platform/iframe-broker.html",
+            brokerUrl: "https://acahyadi.github.io/openfin-web-starter/web-layout-basic/platform/iframe-broker.html",
             interopConfig: {
                 providerId: "web-layout-basic",
                 currentContextGroup: "green"

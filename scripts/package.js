@@ -6,7 +6,7 @@ const yargs = require('yargs');
 const packageJson = require('../package.json');
 
 const DEFAULT_PORT = '6060';
-const DEFAULT_FOLDER = 'web-starter';
+const DEFAULT_FOLDER = 'openfin-web-starter';
 const DEFAULT_PATH = 'web';
 const ENV_NAME = 'PKG_HOWTOS';
 

@@ -11,12 +11,12 @@
 			"lang": "en-US",
 			"icons": [
 				{
-					"src": "https://acahyadi.github.io/web-starter/web-interop-support-context-and-intents/favicon.ico"
+					"src": "https://acahyadi.github.io/openfin-web-starter/web-interop-support-context-and-intents/favicon.ico"
 				}
 			],
 			"screenshots": [
 				{
-					"src": "https://acahyadi.github.io/web-starter/web-interop-support-context-and-intents/images/previews/preview-app-custom-tab.jpeg"
+					"src": "https://acahyadi.github.io/openfin-web-starter/web-interop-support-context-and-intents/images/previews/preview-app-custom-tab.jpeg"
 				}
 			],
 			"contactEmail": "sales@openfin.co",
@@ -24,7 +24,7 @@
 			"publisher": "OpenFin",
 			"type": "web",
 			"details": {
-				"url": "https://acahyadi.github.io/web-starter/web-interop-support-context-and-intents/platform/custom-tab/custom-tab.html"
+				"url": "https://acahyadi.github.io/openfin-web-starter/web-interop-support-context-and-intents/platform/custom-tab/custom-tab.html"
 			},
 			"interop": {}
 		}

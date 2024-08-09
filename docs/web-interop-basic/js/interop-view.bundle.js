@@ -29975,8 +29975,8 @@ exports.getSettings = getSettings;
 async function getSettings() {
     return {
         platform: {
-            sharedWorkerUrl: "https://acahyadi.github.io/web-starter/web-interop-basic/js/shared-worker.bundle.js",
-            brokerUrl: "https://acahyadi.github.io/web-starter/web-interop-basic/platform/iframe-broker.html",
+            sharedWorkerUrl: "https://acahyadi.github.io/openfin-web-starter/web-interop-basic/js/shared-worker.bundle.js",
+            brokerUrl: "https://acahyadi.github.io/openfin-web-starter/web-interop-basic/platform/iframe-broker.html",
             providerId: "web-interop-basic",
             defaultContextGroup: "green"
         }

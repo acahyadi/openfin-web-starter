@@ -16,20 +16,20 @@
 	"custom_settings": {
 		"platform": {
 			"interop": {
-				"sharedWorkerUrl": "https://acahyadi.github.io/web-starter/cloud-interop/js/shared-worker.bundle.js",
-				"brokerUrl": "https://acahyadi.github.io/web-starter/cloud-interop/platform/iframe-broker.html",
+				"sharedWorkerUrl": "https://acahyadi.github.io/openfin-web-starter/cloud-interop/js/shared-worker.bundle.js",
+				"brokerUrl": "https://acahyadi.github.io/openfin-web-starter/cloud-interop/platform/iframe-broker.html",
 				"providerId": "cloud-interop",
 				"defaultContextGroup": "green"
 			},
 			"layout": {
 				"panels": {
 					"left": {
-						"url": "https://acahyadi.github.io/web-starter/cloud-interop/views/fdc3-panel.html",
+						"url": "https://acahyadi.github.io/openfin-web-starter/cloud-interop/views/fdc3-panel.html",
 						"frameId": "left-panel"
 					}
 				},
 				"layoutContainerId": "layout_container",
-				"defaultLayout": "https://acahyadi.github.io/web-starter/cloud-interop/layouts/default.layout.fin.json"
+				"defaultLayout": "https://acahyadi.github.io/openfin-web-starter/cloud-interop/layouts/default.layout.fin.json"
 			}
 		},
 		"cloud": {

@@ -56,7 +56,7 @@ const iframe_broker_1 = __webpack_require__(/*! @openfin/core-web/iframe-broker 
  */
 async function init() {
     return (0, iframe_broker_1.init)({
-        sharedWorkerUrl: "https://acahyadi.github.io/web-starter/web-layout-basic/js/shared-worker.bundle.js"
+        sharedWorkerUrl: "https://acahyadi.github.io/openfin-web-starter/web-layout-basic/js/shared-worker.bundle.js"
     });
 }
 init()
